@@ -38,7 +38,7 @@ function fillGroups() {
   groups.forEach(([group, description]) => {
     const option = document.createElement("option");
     option.value = group;
-    option.textContent = `${group} — ${description}`;
+    option.textContent = `${group}`;
     groupFilter.appendChild(option);
   });
 }
