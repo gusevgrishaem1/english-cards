@@ -6,6 +6,7 @@
   {"word":"leave school","translation":"закончить школу","group":"A","groupDescription":"Before you are 20"},
   {"word":"learn to drive","translation":"научиться водить","group":"A","groupDescription":"Before you are 20"},
   {"word":"fall in love","translation":"влюбиться","group":"A","groupDescription":"Before you are 20"},
+
   {"word":"go to university","translation":"пойти в университет","group":"B","groupDescription":"From 20 to 40"},
   {"word":"get engaged","translation":"обручиться","group":"B","groupDescription":"From 20 to 40"},
   {"word":"get married","translation":"жениться / выйти замуж","group":"B","groupDescription":"From 20 to 40"},
@@ -17,11 +18,14 @@
   {"word":"have a change of career","translation":"сменить карьеру","group":"B","groupDescription":"From 20 to 40"},
   {"word":"settle down","translation":"остепениться","group":"B","groupDescription":"From 20 to 40"},
   {"word":"start a business","translation":"начать бизнес","group":"B","groupDescription":"From 20 to 40"},
+
   {"word":"become a grandparent","translation":"стать дедушкой / бабушкой","group":"C","groupDescription":"From 40 to 60"},
   {"word":"get divorced","translation":"развестись","group":"C","groupDescription":"From 40 to 60"},
   {"word":"retire early","translation":"рано выйти на пенсию","group":"C","groupDescription":"From 40 to 60"},
+
   {"word":"retire","translation":"выйти на пенсию","group":"D","groupDescription":"Over 60"},
   {"word":"pass away","translation":"умереть","group":"D","groupDescription":"Over 60"},
+
   {"word":"inherit","translation":"унаследовать","group":"E","groupDescription":"At any age"},
   {"word":"split up","translation":"расстаться","group":"E","groupDescription":"At any age"},
   {"word":"emigrate","translation":"эмигрировать","group":"E","groupDescription":"At any age"},
