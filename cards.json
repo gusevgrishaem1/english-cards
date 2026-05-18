@@ -29,5 +29,15 @@
   {"word":"inherit","translation":"унаследовать","group":"E","groupDescription":"At any age"},
   {"word":"split up","translation":"расстаться","group":"E","groupDescription":"At any age"},
   {"word":"emigrate","translation":"эмигрировать","group":"E","groupDescription":"At any age"},
-  {"word":"leave home","translation":"съехать из дома","group":"E","groupDescription":"At any age"}
+  {"word":"leave home","translation":"съехать из дома","group":"E","groupDescription":"At any age"},
+
+  {"word":"be an infant","translation":"быть младенцем","group":"Stages of life"},
+  {"word":"be a toddler","translation":"быть малышом","group":"Stages of life"},
+  {"word":"be a young child","translation":"быть маленьким ребёнком","group":"Stages of life"},
+  {"word":"be in your teens","translation":"быть подростком","group":"Stages of life"},
+  {"word":"be in your twenties","translation":"быть в возрасте 20+","group":"Stages of life"},
+  {"word":"be an adult","translation":"быть взрослым","group":"Stages of life"},
+  {"word":"be middle-aged","translation":"быть среднего возраста","group":"Stages of life"},
+  {"word":"be elderly","translation":"быть пожилым","group":"Stages of life"},
+  {"word":"be a centenarian","translation":"быть столетним человеком","group":"Stages of life"}
 ]
